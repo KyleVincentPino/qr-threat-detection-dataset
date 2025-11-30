@@ -1,5 +1,3 @@
----
-
 ## 📄 **Dataset for “A Machine Learning-based Framework for Detecting Suspicious QR Codes through Combined Image Analysis and URL Threat Assessment”**
 
 This repository contains the dataset used in the research study:
