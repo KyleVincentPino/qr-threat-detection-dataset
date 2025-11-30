@@ -1,4 +1,4 @@
-<img width="223" height="21" alt="image" src="https://github.com/user-attachments/assets/fc5a2b5a-5af8-42d4-b402-a12c31585ddd" />## 📄 **Dataset for “A Machine Learning-based Framework for Detecting Suspicious QR Codes through Combined Image Analysis and URL Threat Assessment”**
+## 📄 **Dataset for “A Machine Learning-based Framework for Detecting Suspicious QR Codes through Combined Image Analysis and URL Threat Assessment”**
 
 This repository contains the dataset used in the research study:
 
