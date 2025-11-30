@@ -1,4 +1,4 @@
-## 📄 **Dataset for “A Machine Learning-based Framework for Detecting Suspicious QR Codes through Combined Image Analysis and URL Threat Assessment”**
+<img width="223" height="21" alt="image" src="https://github.com/user-attachments/assets/fc5a2b5a-5af8-42d4-b402-a12c31585ddd" />## 📄 **Dataset for “A Machine Learning-based Framework for Detecting Suspicious QR Codes through Combined Image Analysis and URL Threat Assessment”**
 
 This repository contains the dataset used in the research study:
 
@@ -56,7 +56,7 @@ Examples:
 
 ---
 
-2. URL Dataset
+### **2. URL Dataset**
 
 The file url_data.csv contains URLs extracted from QR codes along with engineered features used for the URL threat assessment model.
 
@@ -67,6 +67,15 @@ Typical columns include:
 | `url`               | Raw extracted URL                           |
 | `label`             | benign, malicious                           |
 | `result`            | 0 = benign, 1 = malicious                   |
+
+Examples:
+
+| url                        | label        | result  |
+| -------------------------- | ------------ | ------- |
+| https://www.google.com     | benign       | 0       |
+| https://www.youtube.com    | benign       | 0       |
+| https://www.facebook.com   | benign       | 0       |
+| ...                        | ...          | ...     |
 
 ---
 
