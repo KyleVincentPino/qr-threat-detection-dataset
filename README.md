@@ -135,10 +135,9 @@ The dataset enables training of a three-stage detection framework:
 
 If you use this dataset, please cite the corresponding paper:
 
-## P.S. Replace later
 ```
-K. V. Pino et al.,
-"A Machine Learning-based Framework for Detecting Suspicious QR Codes through Combined Image Analysis and URL Threat Assessment,"
+G. A. De Guzman, J. J. Gatmin, and J. E. Lumata, K. V. Pino
+“A Machine Learning-based Framework for Detecting Suspicious QR Codes through Combined Image Analysis and URL Threat Assessment,”
 2025.
 ```
 
@@ -156,5 +155,20 @@ Always use safe, isolated environments when inspecting URL data.
 
 This dataset is intended for research and educational purposes.
 Contributions are welcome via pull request or issue submission.
+
+---
+
+## 📄 License
+
+This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You are free to:
+- **Share** — copy and redistribute the material  
+- **Adapt** — remix and build upon it for any purpose  
+
+Under the condition:
+- **Attribution** — provide appropriate credit and link to the license  
+
+Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ---
